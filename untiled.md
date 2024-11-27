@@ -1,0 +1,5 @@
+help('int')
+help('float')
+help('list')
+help('str')
+help('char')
